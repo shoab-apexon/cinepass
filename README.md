@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cinepass
-=======
 # 🎬 CinePass
 
 A movie ticket booking system — browse movies, pick a showtime, choose your seats, and book. Built as a thin, working vertical slice end-to-end (not the full admin suite yet — see "What's included" below).

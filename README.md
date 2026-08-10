@@ -171,4 +171,3 @@ The frontend uses a custom "cinema marquee" design system rather than default MU
 - No PDF ticket export, movie search, or favorites (bonus features from the original brief)
 - Showtimes can only be created/deleted, not edited in place (no PUT endpoint, matching the original API spec)
 - Bundle isn't code-split yet (single ~725KB JS chunk) — fine for this slice, worth splitting by route before scaling further
->>>>>>> 080d5ae (Initial commit)
